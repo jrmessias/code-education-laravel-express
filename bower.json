@@ -1,0 +1,25 @@
+{
+  "name": "CodeEducationLaravelExpressIMJ",
+  "version": "0.1.0",
+  "authors": [
+    "Júnior Messias <jrmessias@gmail.com>"
+  ],
+  "description": "Code Education - Laravel Express",
+  "keywords": [
+    "code",
+    "education",
+    "laravel",
+    "imj"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "fontawesome": "~4.4.0"
+  }
+}
